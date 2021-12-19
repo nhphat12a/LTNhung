@@ -73,11 +73,11 @@ int main(void)
   while (1)
   {
 		Sangden();
-		HAL_Delay(1000);
+		HAL_Delay(100);
 		Tatden();
-		HAL_Delay(1000);
+		HAL_Delay(100);
 		Sanglanluot1();
-		HAL_Delay(1000);
+		HAL_Delay(100);
 		Sanglanluot2();
 		
   }
